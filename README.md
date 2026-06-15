@@ -6,8 +6,8 @@
 > Evaluación de RA1, RA4, RA5 y RA6.
  
 ---
-**Nombre:** [Nombre del alumno]
-**RA de los que te examinas:** [RA de los que te examinas. Ojo, no confundas RAs con Unidad]
+**Nombre:** Jesús Rodríguez Rodríguez
+**RA de los que te examinas:** RA4 y RA6
 ---
 
 
@@ -49,7 +49,7 @@ Kotlin es un lenguaje de **alto nivel**, normalmente **compilado a bytecode** pa
 ### 8. (5 puntos - 10 min) ¿Qué áreas principales utiliza git para gestionar los cambios en un proyecto y para qué sirven cada uno?
 
 *Respuesta a la pregunta 8. (mínimo 200 palabras)*
-
+working area, staging area y git
 
 ---
 
@@ -63,19 +63,19 @@ Ejemplo de respuesta:
 *Responde a las siguientes situaciones:*
 
 1. Ver el historial de commits en una sola línea.
-    + comando: 
+    + comando: `git log --oneline`
    
 2. Deshacer el último commit y deshacer cambios. Eliminar los cambios.
     + comando:
 
 3. Crear la rama `featureA` y cambiar a ella.
-    + comando:
+    + comando: 
 
 4. Ver el estado del repositorio.
-    + comando:
+    + comando: `git status`
 
 5. Clonar el repositorio `https://github.com/revilofe/HundirFlota.git`.
-    + comando:
+    + comando: `git clone https://github.com/revilofe/HundirFlota.git`
 
 6. Descargar al repositorio local los cambios del remote `origin` rama `main`.
     + comando:
